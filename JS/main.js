@@ -82,7 +82,7 @@ window.addEventListener('load', () => {
             )} to ${subtractDaysFromDate(2).substring(
                 3,
                 10,
-            )} 🥰 <br/> matches only: send me a ❤️
+            )} 🥰 <br/> send me a ❤️
               in my DMs`
 
         }
