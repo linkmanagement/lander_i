@@ -1,4 +1,4 @@
-const URL = 'onlyykelly.com'
+const URL = 'onlyyleona.com'
 
 window.addEventListener('load', () => {
 
